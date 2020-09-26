@@ -1,6 +1,11 @@
 import os
 from pathlib import Path
 from django.utils.translation import gettext_lazy as _
+import django_heroku
+import dj_database_url
+from decouple import config
+
+
 
 # Build paths inside the project like this: BASE_DIR / 'subdir'.
 BASE_DIR = Path(__file__).resolve().parent.parent
@@ -41,6 +46,8 @@ MIDDLEWARE = [
     'django.contrib.messages.middleware.MessageMiddleware',
     'django.middleware.clickjacking.XFrameOptionsMiddleware',
     'django.middleware.locale.LocaleMiddleware',
+    'whitenoise.middleware.WhiteNoiseMiddleware',
+
 ]
 
 ROOT_URLCONF = 'dentist.urls'
@@ -136,6 +143,9 @@ STATICFILES_DIRS=[
 
 ]
 
+STATICFILES_STORAGE = 'whitenoise.storage.CompressedManifestStaticFilesStorage'
+
+
 #Email settings
 EMAIL_HOST='localhost'
 EMAIL_PORT = '587'
@@ -147,7 +157,7 @@ EMAIL_USE_TLS = False
 
 
 
-
+django_heroku.settings(locals())
 
 
 
