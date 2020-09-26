@@ -1,0 +1,391 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"me",
+				"messages"
+			],
+			[
+				"Mem",
+				"Memberform"
+			],
+			[
+				"re",
+				"request"
+			],
+			[
+				"fi",
+				"Finally"
+			],
+			[
+				"it",
+				"item"
+			],
+			[
+				"E",
+				"email"
+			],
+			[
+				"CUE",
+				"customers"
+			],
+			[
+				"con",
+				"connect"
+			],
+			[
+				"w",
+				"WHERE"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "dentist/urls.py",
+			"settings":
+			{
+				"buffer_size": 164,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "website/templates/home.html",
+			"settings":
+			{
+				"buffer_size": 35328,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "website/urls.py",
+			"settings":
+			{
+				"buffer_size": 104,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		},
+		{
+			"file": "dentist/settings.py",
+			"settings":
+			{
+				"buffer_size": 2882,
+				"encoding": "UTF-8",
+				"line_ending": "Windows"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Python/django/dentist/dentist",
+		"/D/Python/django/dentist/dentist/dentist",
+		"/D/Python/django/dentist/dentist/static",
+		"/D/Python/django/dentist/dentist/static/website",
+		"/D/Python/django/dentist/dentist/website",
+		"/D/Python/django/dentist/dentist/website/templates"
+	],
+	"file_history":
+	[
+		"/D/Python/django/dentist/dentist/static/website/css/style.css",
+		"/D/Python/django/dentist/dentist/website/views.py",
+		"/D/Python/django/dentist/dentist/website/templates/home.html",
+		"/D/Python/django/djangodb/website/templates/home.html",
+		"/D/Python/django/djangodb/website/models.py",
+		"/D/Python/django/djangodb/website/admin.py",
+		"/D/Python/django/djangodb/website/templates/base.html",
+		"/D/Python/django/djangodb/website/views.py",
+		"/D/Python/django/djangodb/website/forms.py",
+		"/D/Python/django/djangodb/website/templates/join.html",
+		"/D/Python/django/djangodb/website/urls.py",
+		"/D/Python/django/djangodb/djangodb/settings.py",
+		"/D/Python/django/djangodb/djangodb/urls.py",
+		"/D/Python/Zero to Hero/while.py",
+		"/D/Python/Zero to Hero/Problem1.py",
+		"/D/Python/Zero to Hero/IO.py",
+		"/D/Python/Atom/myset.py",
+		"/D/Python/Atom/weather.py",
+		"/D/Python/SQLite/format.py",
+		"/D/Python/SQLite/CRUD.py"
+	],
+	"find":
+	{
+		"height": 44.8
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"/css/",
+			"website/css/",
+			"static/websiteimg",
+			"static 'website/",
+			".jpg",
+			".png",
+			".jpg",
+			".ico",
+			"memberss"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 3,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "dentist/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 164,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								164,
+								164
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 3,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "website/templates/home.html",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 35328,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								755,
+								755
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/HTML/HTML.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "website/urls.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 104,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								48,
+								48
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 3,
+					"file": "dentist/settings.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 2882,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								557,
+								557
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 69.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 32.0
+	},
+	"input":
+	{
+		"height": 44.8
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "manage.sublime-project",
+	"replace":
+	{
+		"height": 60.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 276.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
