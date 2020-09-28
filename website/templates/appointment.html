@@ -1,0 +1,17 @@
+{%extends 'base.html'%}
+
+{% load static %}
+{% block title %}Appointment {% endblock%}
+{%block content%}
+<h1>Success appointment</h1>
+<h3>Review your infomation:</h3>
+<center>
+	<p><strong>Name: </strong>{{your_name}}</p>
+	<p><strong>Phone: </strong>{{your_phone}}</p>
+	<p><strong>Email: </strong>{{your_email}}</p>
+	<p><strong>Address: </strong>{{your_address}}</p>
+	<p><strong>Schedule: </strong>{{ your_schedule }}</p>
+	<p><strong>Date: </strong>{{your_date}}</p>
+	<p><strong>Message: </strong>{{your_message}}</p>
+</center>
+{%endblock%}
